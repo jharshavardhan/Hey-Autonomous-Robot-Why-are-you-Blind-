@@ -71,19 +71,14 @@ This project solves that by training and comparing three deep learning models (M
 **YOLOv8s** — mAP50: ~90%. Detects all 4 dirt classes with bounding boxes. Each class achieves F1 ≈ 0.90. Real-time capable and selected as the final deployment model.
 
 ---
+<p float="left">
+  
+  <img width="733" height="590" alt="mobilenetV2 confusion mtx" src="https://github.com/user-attachments/assets/3deba0af-cc0e-4adc-8c39-6ca79374d502" width = "33%" />
+  <img width="733" height="590" alt="YOLOv8 confusion mtx" src="https://github.com/user-attachments/assets/09d6493c-c8fa-47f0-918b-4b96784b38d2" width = "33%"  />
+  <img width="733" height="590" alt="resnet50 confusion mtx" src="https://github.com/user-attachments/assets/9cc19646-3804-4f76-999c-3699ae1831ae" width = "33%"  />
+</p>
 
-## 🔧 Hardware Architecture
 
-| Component | Description |
-|---|---|
-| **Vision Sensor** | CSI camera mounted at the vacuum front, angled at the floor |
-| **Dust Sensor** | PPD42NS optical sensor in the air intake for fine particle detection |
-| **Processing Unit** | NVIDIA Jetson Nano — runs YOLOv8s in <15ms, hosts ROS2 nodes |
-| **Vacuum Base** | iRobot Create 3 — physical movement via ROS2, BFS/A* path commands |
-| **Motor Driver** | DRV8880 — controls suction via PWM (OFF: liquid, LOW: clean, HIGH: dirt/trash) |
-| **Power System** | Li-ion battery — 5V compute, 24V motors. Auto-docks below 20% |
 
----
 
-## 🔄 System Pipeline
 
