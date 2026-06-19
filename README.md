@@ -84,9 +84,9 @@ This project solves that by training and comparing three deep learning models (M
 <p float ="left">
   
 
-  <img alt="download" src="https://github.com/user-attachments/assets/5f8d28f5-b7e4-4286-8122-650142628501" width = "50%"/>
+  <img alt="download" src="https://github.com/user-attachments/assets/5f8d28f5-b7e4-4286-8122-650142628501" width = "49%"/>
 
-  <img alt="yolov8 image predic 2" src="https://github.com/user-attachments/assets/bc414b12-8f90-4168-9497-0ba910898e17" width = "50%" />
+  <img alt="yolov8 image predic 2" src="https://github.com/user-attachments/assets/bc414b12-8f90-4168-9497-0ba910898e17" width = "49%" />
 
 </p>
 
