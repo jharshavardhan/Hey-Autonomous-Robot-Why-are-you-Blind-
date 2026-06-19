@@ -4,8 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8s-mAP50%3A90%25-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![Platform](https://img.shields.io/badge/Hardware-Jetson%20Nano-76b900?logo=nvidia)
-![Framework](https://img.shields.io/badge/Framework-ROS2-orange)
+
 
 > A real-time computer vision system that gives robot vacuums the ability to **see and understand** floor-level dirt — enabling zone-targeted, adaptive cleaning instead of blind scheduled sweeps.
 
