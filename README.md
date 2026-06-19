@@ -78,7 +78,15 @@ This project solves that by training and comparing three deep learning models (M
   <img alt="resnet50 confusion mtx" src="https://github.com/user-attachments/assets/9cc19646-3804-4f76-999c-3699ae1831ae" width = "33%"  />
 </p>
 
-| ![Alt 1](path_to_image1.png) | ![Alt 2](path_to_image2.png) | ![Alt 3](path_to_image3.png) |
+---
+<p float ="left">
+  <img alt="download" src="https://github.com/user-attachments/assets/734b3985-521d-479c-abcc-b5832976e399" width = "32%" />
+  
+  <img alt="download" src="https://github.com/user-attachments/assets/5f8d28f5-b7e4-4286-8122-650142628501" width = "32%"/>
+
+  <img alt="yolov8 image predic 2" src="https://github.com/user-attachments/assets/bc414b12-8f90-4168-9497-0ba910898e17" width = "32%" />
+
+</p>
 
 
 
