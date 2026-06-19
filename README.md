@@ -79,15 +79,22 @@ This project solves that by training and comparing three deep learning models (M
 </p>
 
 ---
-<p float ="left">
-  <img alt="download" src="https://github.com/user-attachments/assets/734b3985-521d-479c-abcc-b5832976e399" width = "32%" />
-  
-  <img alt="download" src="https://github.com/user-attachments/assets/5f8d28f5-b7e4-4286-8122-650142628501" width = "32%"/>
 
-  <img alt="yolov8 image predic 2" src="https://github.com/user-attachments/assets/bc414b12-8f90-4168-9497-0ba910898e17" width = "32%" />
+### dirt prediction
+<p float ="left">
+  
+
+  <img alt="download" src="https://github.com/user-attachments/assets/5f8d28f5-b7e4-4286-8122-650142628501" width = "50%"/>
+
+  <img alt="yolov8 image predic 2" src="https://github.com/user-attachments/assets/bc414b12-8f90-4168-9497-0ba910898e17" width = "50%" />
 
 </p>
 
+---
+
+## Simulation of Vacuum Cleaner
+
+<img width="1919" height="910" alt="Screenshot 2026-04-25 195554" src="https://github.com/user-attachments/assets/312474c4-802b-4b4f-9a48-545fbc583e0c" />
 
 
 
