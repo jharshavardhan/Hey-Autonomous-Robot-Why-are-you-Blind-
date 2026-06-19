@@ -73,10 +73,13 @@ This project solves that by training and comparing three deep learning models (M
 ---
 <p float="left">
   
-  <img width="733" height="590" alt="mobilenetV2 confusion mtx" src="https://github.com/user-attachments/assets/3deba0af-cc0e-4adc-8c39-6ca79374d502" width = "33%" />
-  <img width="733" height="590" alt="YOLOv8 confusion mtx" src="https://github.com/user-attachments/assets/09d6493c-c8fa-47f0-918b-4b96784b38d2" width = "33%"  />
-  <img width="733" height="590" alt="resnet50 confusion mtx" src="https://github.com/user-attachments/assets/9cc19646-3804-4f76-999c-3699ae1831ae" width = "33%"  />
+  <img alt="mobilenetV2 confusion mtx" src="https://github.com/user-attachments/assets/3deba0af-cc0e-4adc-8c39-6ca79374d502" width = "33%" />
+  <img alt="YOLOv8 confusion mtx" src="https://github.com/user-attachments/assets/09d6493c-c8fa-47f0-918b-4b96784b38d2" width = "33%"  />
+  <img alt="resnet50 confusion mtx" src="https://github.com/user-attachments/assets/9cc19646-3804-4f76-999c-3699ae1831ae" width = "33%"  />
 </p>
+
+| ![Alt 1](path_to_image1.png) | ![Alt 2](path_to_image2.png) | ![Alt 3](path_to_image3.png) |
+
 
 
 
